@@ -1,0 +1,15 @@
+.navbar-title {
+	color: #fff;
+}
+
+#services,#pricing {
+	padding-bottom: 0;
+}
+
+#team {
+	padding-top: 90px;
+}
+
+#pricing, #home {
+	background-image: url(../images/hand.jpeg);
+}
